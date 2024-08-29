@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Balu409
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning java,python, web development.
-- 📫 How to reach me mail: baluperla15102004@gmail.com
+- 📫 How to reach me baluperla15102004@gmail.com
 
 <!---
 Balu409/Balu409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
